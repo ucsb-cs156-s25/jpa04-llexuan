@@ -1,6 +1,6 @@
 # STARTER-jpa04
 
-Running at: <hhttps://jpa04-llexuan.dokku-01.cs.ucsb.edu>
+Running at: <https://jpa04-llexuan.dokku-01.cs.ucsb.edu>
 
 ## Thanks
 
